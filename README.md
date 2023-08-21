@@ -7,3 +7,4 @@ segundo estado
 tercer
 cuarto
 quinto
+sin upstream
