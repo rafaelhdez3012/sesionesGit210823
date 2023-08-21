@@ -3,5 +3,5 @@ def hello
 end
 
 def bye
-
+ p "hola mundo 2"
 end
